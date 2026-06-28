@@ -30,6 +30,7 @@ Folder Structure:-
 
 Installation
 1)Clone the repository
+https://github.com/Ankush-Sarkar10/e-commerce-product-catalog.git
 23)Open project folder
 3)Open index.html
      OR
